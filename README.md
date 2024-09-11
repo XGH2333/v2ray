@@ -1,3 +1,8 @@
+# 原作者跑路时使用
+```
+wget https://github.com/233boy/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l
+
+```
 # 介绍
 
 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
